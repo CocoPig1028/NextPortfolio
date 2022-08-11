@@ -9,6 +9,7 @@ export default function Header() {
           <Link href="/">
             <a className="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0">
               <svg
+                // xmlns="http://www.w3.org/2000/svg" 후반 수정용
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
                 stroke="currentColor"

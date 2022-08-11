@@ -6,7 +6,7 @@ export default function Hero() {
     <>
       <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
         <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
-          Hi, I am Daeyeong Park
+          Hi, I am CocoPig
         </h1>
         <p className="mb-8 leading-relaxed">
           Full-Stack Developer를 꿈꾸는 Junior입니다. 웹 퍼블리싱을 한 경험은
