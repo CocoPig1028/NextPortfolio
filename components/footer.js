@@ -12,7 +12,7 @@ export default function Footer() {
               </a>
             </Link>
             <p className="text-sm text-gray-500 sm:ml-6 sm:mt-0 mt-4">
-              © 2020 Tailblocks —
+              © 2020 Tailblocks
               <a
                 href="https://twitter.com/knyttneve"
                 rel="noopener noreferrer"
@@ -26,7 +26,7 @@ export default function Footer() {
               <a className="text-gray-500">
                 <svg
                   fill="currentColor"
-                  strokLinecap="round"
+                  strokeLinecap="round"
                   strokLinejoin="round"
                   strokeWidth="2"
                   className="w-5 h-5"
@@ -38,7 +38,7 @@ export default function Footer() {
               <a className="ml-3 text-gray-500">
                 <svg
                   fill="currentColor"
-                  strokLinecap="round"
+                  strokeLinecap="round"
                   strokLinejoin="round"
                   strokeWidth="2"
                   className="w-5 h-5"
